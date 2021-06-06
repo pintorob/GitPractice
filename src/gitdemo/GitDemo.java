@@ -8,7 +8,7 @@ package gitdemo;
 
 /**
  *
- * @author Robert Moses Pinto, 2021
+ * @author Robert Moses Pinto,Spring/Summer 2021
  */
 public class GitDemo {
 
